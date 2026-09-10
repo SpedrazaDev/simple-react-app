@@ -50,3 +50,4 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_ICY_POND_00B7F2310 }}
           action: "close"
+#azure key
